@@ -26,7 +26,7 @@ It strips away the noise of traditional weather apps—no ads, no radar clutter,
 
 ## 📸 Visual Tour
 
-<img width="428" height="892" alt="skio" src="https://github.com/user-attachments/assets/48beaef3-0a1d-4840-bc50-a1fd9b3e51af" />
+<img width="200" height="892" alt="skio" src="https://github.com/user-attachments/assets/48beaef3-0a1d-4840-bc50-a1fd9b3e51af" />
 
 
 ---
